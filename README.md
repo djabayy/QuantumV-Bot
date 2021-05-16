@@ -58,4 +58,4 @@
 
 
 <h2>Support</h2>
-<p>If you need help with anything you can reach me on discord via <b>👑 Marco#0001</b> or join my discord server!</p>
+<p>If you need help with anything you can reach me on discord via <b>👑 Marco#0001</b> or join my discord server! Invite: https://discord.gg/N8kKMFP9tR</p>
