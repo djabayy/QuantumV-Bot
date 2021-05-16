@@ -1,0 +1,20 @@
+{
+  "name": "quantumv-bot",
+  "version": "1.0.0",
+  "description": "FiveM Discord RCON Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "i18n-nodejs": "^3.0.0",
+    "mysql": "^2.18.1",
+    "rcon": "^1.0.3",
+    "rcon-client": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

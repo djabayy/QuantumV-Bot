@@ -1,0 +1,24 @@
+{
+    "token": "",
+    "prefix": ".",
+    "debug": false,
+    "lang": "de",
+    "server": {
+        "host": "",
+        "port": 30120,
+        "password": ""
+    },
+    "database": {
+        "host": "",
+        "port": "3306",
+        "user": "",
+        "password": "",
+        "database": ""
+    },
+    "embedSettings": {
+        "author": "QuantumV",
+        "icon": "https://quantumv.de/logo.png",
+        "footer": "QuantumV"
+    },
+    "deleteCommandUsage": true
+}
