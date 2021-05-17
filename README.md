@@ -1,4 +1,4 @@
-<h3>QuantumV Discord Bot</h3>
+<h3>FiveM Discord Bot</h3>
 <p>This discord bot adds multiple commands to your disord server. You can control your resources with this bot. Search for a user in your database or for a vehicle. Also you can give a item to a player when they're on the server but you're not!</p>
 <p>I'll try to explain everything as good as possible!</p>
 
