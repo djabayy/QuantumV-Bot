@@ -1,266 +1,332 @@
 {
   "ready": {
     "de": "Der Bot ist erfolgreich auf Version {{ver}} gestartet!",
-    "en": "The bot started successfully on version {{ver}}!"
+    "en": "The bot started successfully on version {{ver}}!",
+    "fr": "Le bot a démarré avec succès sur la version {{ver}} !"
   },
   "userFound": {
     "de": "Ich habe einen Spieler gefunden! Hier sind die Details:",
-    "en": "I've found a player! Here are the details:"
+    "en": "I've found a player! Here are the details:",
+    "fr": "J'ai trouvé un joueur ! Voici les détails :"
   },
   "firstname": {
     "de": "Vorname",
-    "en": "Firstname"
+    "en": "Firstname",
+    "fr": "Prénom"
   },
   "lastname": {
     "de": "Nachname",
-    "en": "Lastname"
+    "en": "Lastname",
+    "fr": "Nom"
   },
   "sex": {
     "de": "Geschlecht",
-    "en": "Sex"
+    "en": "Sex",
+    "fr": "Sexe"
   },
   "job": {
     "de": "Job",
-    "en": "Job"
+    "en": "Job",
+    "fr": "Travail"
   },
   "m": {
     "de": "Männlich",
-    "en": "Male"
+    "en": "Male",
+    "fr": "Homme"
   },
   "f": {
     "de": "Weiblich",
-    "en": "Female"
+    "en": "Female",
+    "fr": "Femme"
   },
   "userFoundTitle": {
     "de": "Spieler gefunden!",
-    "en": "Player found!"
+    "en": "Player found!",
+    "fr": "Joueur trouvé !"
   },
   "job_grade": {
     "de": "Job Rang",
-    "en": "Job rank"
+    "en": "Job rank",
+    "fr": "Travail grade"
   },
   "userNotFound": {
     "de": "Ich habe keinen Spieler mit deinen Angaben gefunden.",
-    "en": "I couldnt find any player with your data."
+    "en": "I couldn't find any player with your data.",
+    "fr": "Je n'ai trouvé aucun joueur avec vos données."
   },
   "servergroup": {
     "de": "Servergruppe",
-    "en": "Servergroup"
+    "en": "Servergroup",
+    "fr": "Groupe sur le serveur"
   },
   "superadmin": {
     "de": "Superadmin",
-    "en": "Superadmin"
+    "en": "Superadmin",
+    "fr": "Superadmin"
   },
   "admin": {
     "de": "Admin",
-    "en": "Admin"
+    "en": "Admin",
+    "fr": "Admin"
   },
   "mod": {
     "de": "Moderator",
-    "en": "Moderator"
+    "en": "Moderator",
+    "fr": "Modérateur"
   },
   "support": {
     "de": "Supporter",
-    "en": "Supporter"
+    "en": "Supporter",
+    "fr": "Support"
   },
   "money": {
     "de": "Bargeld",
-    "en": "Cash"
+    "en": "Cash",
+    "fr": "Cash"
   },
   "bank": {
     "de": "Bank",
-    "en": "Bank"
+    "en": "Bank",
+    "fr": "Banque"
   },
   "black_money": {
     "de": "Schwarzgeld",
-    "en": "Black money"
+    "en": "Black money",
+    "fr": "Argent sale"
   },
   "no_arguments_provided": {
     "de": "Falsche Befehlnutzung!",
-    "en": "Wrong command usage!"
+    "en": "Wrong command usage!",
+    "fr": "Mauvaise utilisation de la commande !"
   },
   "plateFoundTitle": {
     "de": "Fahrzeug gefunden",
-    "en": "Vehicle found!"
+    "en": "Vehicle found!",
+    "fr": "Véhicule trouvé !"
   },
   "plateFound": {
     "de": "Ich habe ein Fahrzeug gefunden! Hier sind die Details:",
-    "en": "I have found a vehicle! Here are the details:"
+    "en": "I have found a vehicle! Here are the details:",
+    "fr": "J'ai trouvé un véhicule ! Voici les détails :"
   },
   "plate": {
     "de": "Kennzeichen",
-    "en": "Licenseplate"
+    "en": "Licenseplate",
+    "fr": "Plaque d'immatriculation"
   },
   "noPermission": {
     "de": "Du hast nicht die benötigten Berechtigungen, um diesen Befehl nutzen zu können!",
-    "en": "You dont have the required permissions to use this command!"
+    "en": "You dont have the required permissions to use this command!",
+    "fr": "Vous n'avez pas les autorisations requises pour utiliser cette commande !"
   },
   "script_name": {
     "de": "Scriptname",
-    "en": "Scriptname"
+    "en": "Scriptname",
+    "fr": "Nom du script"
   },
   "resource_not_found": {
     "de": "Die Resource konnte nicht gefunden werden!",
-    "en": "The resource couldnt be found!"
+    "en": "The resource couldnt be found!",
+    "fr": "La ressource n'a pas été trouvée !"
   },
   "resource_restarted": {
     "de": "Die Resource wurde erfolgreich neugestartet! Server-Ausgabe:",
-    "en": "The resource was successfully restarted! Server-output:"
+    "en": "The resource was successfully restarted! Server-output:",
+    "fr": "La ressource a été redémarrée avec succès ! Serveur-output: "
   },
   "resource_started": {
     "de": "Die Resource wurde erfolgreich gestartet! Server-Ausgabe:",
-    "en": "The resource was started successfully! Server-output:"
+    "en": "The resource was started successfully! Server-output:",
+    "fr": "La ressource a été démarée avec succès ! Serveur-output:"
   },
   "resource_stopped": {
     "de": "Die Resource wurde erfolgreich gestoppt! Server-Ausgabe:",
-    "en": "The resource was stopped successfully! Server-output:"
+    "en": "The resource was stopped successfully! Server-output:",
+    "fr": "La ressource a été stoppée avec succès ! Serveur-output:"
   },
   "user_command_description": {
     "de": "Suche nach einem Spieler in deiner Datenbank",
-    "en": "Search for a player in your database"
+    "en": "Search for a player in your database",
+    "fr": "Recherchez un joueur dans votre base de données"
   },
   "stop_command_description": {
     "de": "Stoppt eine Resource auf dem Server.",
-    "en": "Stops a resource on the server."
+    "en": "Stops a resource on the server.",
+    "fr": "Arrête une ressource sur le serveur."
   },
   "restart_command_description": {
     "de": "Startet eine resource auf dem Server neu.",
-    "en": "Restarts a resource on the server."
+    "en": "Restarts a resource on the server.",
+    "fr": "Redémarre une ressource sur le serveur"
   },
   "start_command_description": {
     "de": "Startet eine resource auf dem Server.",
-    "en": "Starts a resource on the server."
+    "en": "Starts a resource on the server.",
+    "fr": "Démarre une ressource sur le serveur"
   },
   "no_resource_provided": {
     "de": "Bitte gebe eine Resource an, die du {{action}} willst!",
-    "en": ""
+    "en": "Please enter a resource you want {{action}} !",
+    "fr": "Renseignez la ressource que vous souhaitez {{action}} !"
   },
   "action_start": {
     "de": "starten",
-    "en": ""
+    "en": "start",
+    "fr": "démarrer"
   },
   "action_stop": {
     "de": "stoppen",
-    "en": ""
+    "en": "stop",
+    "fr": "stopper"
   },
   "action_restart": {
     "de": "neustarten",
-    "en": ""
+    "en": "restart",
+    "fr": "redémarrer"
   },
   "setgroup_command_description": {
     "de": "Setzt die Gruppe eines Spielers auf deinem Server.",
-    "en": ""
+    "en": "Define the group for a player.",
+    "fr": "Définir le groupe pour un joueur."
   },
   "usergroup_set": {
     "de": "Du hast die Gruppe des Spielers erfolgreich gesetzt!",
-    "en": ""
+    "en": "You have successfully changed the player's group!",
+    "fr": "Vous avez réussi à modifier le groupe du joueur !"
   },
   "no_user_online_with_that_id": {
     "de": "Es ist kein Spieler mit dieser ID online!",
-    "en": ""
+    "en": "There is no player online with this ID!",
+    "fr": "Il n'y a pas de joueur en ligne avec cet identifiant !"
   },
   "plate_not_found": {
     "de": "Ich konnte kein Fahrzeug mit diesem Nummernschild finden!",
-    "en": "I couldnt find a vehicle with that licenseplate"
+    "en": "I couldn't find a vehicle with that licenseplate!",
+    "fr": "Je n'ai pas pu trouver de véhicule avec cette plaque d'immatriculation !"
   },
   "garage_type": {
     "de": "Fahrzeugtyp",
-    "en": "Vehicle type"
+    "en": "Vehicle type",
+    "fr": "Type de véhicule"
   },
   "garage_id": {
     "de": "Garage",
-    "en": "Garage"
+    "en": "Garage",
+    "fr": "Garage"
   },
   "car": {
     "de": "Auto",
-    "en": "Car"
+    "en": "Car",
+    "fr": "Voiture"
   },
   "air": {
     "de": "Flugzeug",
-    "en": "Airplane"
+    "en": "Airplane",
+    "fr": "Avion"
   },
   "boat": {
     "de": "Boot",
-    "en": "Boat"
+    "en": "Boat",
+    "fr": "Bateau"
   },
   "in_garage": {
       "de": "In Garage",
-      "en": "In garage"
+      "en": "In garage",
+      "fr": "Dans un garage"
   },
   "yes": {
       "de": "Ja",
-      "en": "Yes"
+      "en": "Yes",
+      "fr": "Oui"
   },
   "no": {
       "de": "Nein",
-      "en": "No"
+      "en": "No",
+      "fr": "Non"
   },
   "additem_command_description": {
       "de": "Fügt ein neues Item zu deiner Items Tabelle hinzu.",
-      "en": ""
+      "en": "Adds a new item to the database.",
+      "fr": "Ajoute un nouvel item à la base de données."
   },
   "itemInserted": {
       "de": "Item hinzugefügt!",
-      "en": "Item added!"
+      "en": "Item added!",
+      "fr": "Item ajouté !"
   },
   "item_name": {
       "de": "Itemname",
-      "en": "Item name"
+      "en": "Item name",
+      "fr": "Nom de l'item"
   },
   "item_label": {
       "de": "Label",
-      "en": "Label"
+      "en": "Label",
+      "fr": "Label"
   },
   "weight": {
       "de": "Gewicht",
-      "en": "Weight"
+      "en": "Weight",
+      "fr": "Poids"
   },
   "itemFound": {
       "de": "Item gefunden! Details unten:",
-      "en": "Item found! Details below:"
+      "en": "Item found! Details below:",
+      "fr": "Item trouvé ! Voici les détails :"
   },
   "itemNotFound": {
       "de": "Ich konnte kein Item finden.",
-      "en": "I couldnt find any item."
+      "en": "I couldnt find any item.",
+      "fr": "Je n'ai trouvé aucun item."
   },
   "invalid_syntax_giveitem": {
       "de": "Ungültige Syntax! Nutze den Befehl wie folgt: additem [ID] [ITEMNAME] [ANZAHL]",
-      "en": "Invalid syntax! Use the command as follows: additem [ID] [ITEMNAME] [COUNT]"
+      "en": "Invalid syntax! Use the command as follows: additem [ID] [ITEMNAME] [COUNT]",
+      "fr": "Syntaxe invalide! Utilisez la commande de cette manière : additem [ID] [NOM DE L'ITEM] [QUANTITÉ]"
   },
   "id_not_matching": {
       "de": "Es ist kein Spieler mit dieser ID online!",
-      "en": "There is no player online matching that id!"
+      "en": "There is no player online matching that id!",
+      "fr": "Il n'y a aucun joueur en ligne correspondant à cet identifiant !"
   },
   "gave_item": {
       "de": "Ich habe dem Spieler mit der ID **{{id}}** das Item **{{item}}** **{{count}}x** gegeben.",
-      "en": ""
+      "en": "I gave to the player with the id **{{id}}** this item **{{item}}** **{{count}}**x.",
+      "fr": "J'ai donné au joueur avec l'ID **{{id}}** cet item **{{item}}** x**{{count}}**."
   },
   "invalid_weapon": {
       "de": "Die Waffe **{{weapon}}** ist keine gültige Waffe!",
-      "en": "The weapon **{{weapon}}** is not a valid weapon!"
+      "en": "The weapon **{{weapon}}** is not a valid weapon!",
+      "fr": "L'arme **{{weapon}}** n'est pas une arme valide !"
   },
   "inv_weapon": {
       "de": "Ungültige Waffe!",
-      "en": "Invalid weapon!"
+      "en": "Invalid weapon!",
+      "fr": "Arme invalide !"
   },
   "gave_weapon": {
       "de": "Ich habe dem Spieler die Waffe gegeben!",
-      "en": "I gave the weapon to the player!"
+      "en": "I gave the weapon to the player!",
+      "fr": "J'ai donné l'item au joueur !"
   },
   "weapon": {
       "de": "Waffe",
-      "en": "Weapon"
+      "en": "Weapon",
+      "fr": "Arme"
   },
   "user": {
       "de": "Spieler ID",
-      "en": "Player id"
+      "en": "Player id",
+      "fr": "ID du joueur"
   },
   "ammo": {
       "de": "Munition",
-      "en": "Ammo"
+      "en": "Ammo",
+      "fr": "Munition"
   },
   "item_removed": {
     "de": "Das Item wurde erfolgreich entfernt!",
-    "en": "The item was removed successfully!"
+    "en": "The item was removed successfully!",
+    "fr": "L'item a été supprimé avec succès"
   }
 }
